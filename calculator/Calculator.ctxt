@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Calculator
+comment1.params=number_a\ number_b
+comment1.target=Calculator(int,\ int)
+comment2.params=
+comment2.target=int\ sum()
+comment3.params=
+comment3.target=int\ sot()
+comment4.params=
+comment4.target=int\ div()
+comment5.params=
+comment5.target=int\ mol()
+comment6.params=
+comment6.target=int\ random()
+comment7.params=number_a
+comment7.target=int\ palyGame(int)
+numComments=8
